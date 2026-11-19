@@ -6,9 +6,9 @@
 
 **New here? Start with my referral link — it costs you nothing and it is how this guide stays free:**
 
-> **Sign up through https://make.fun/r/anxp5etr**
+> **Sign up through https://make.fun/r/ct66xshw**
 >
-> Referral code: **`anxp5etr`** — you can also use it as `https://make.fun/?ref=anxp5etr` on any make.fun page.
+> Referral code: **`ct66xshw`** — you can also use it as `https://make.fun/?ref=ct66xshw` on any make.fun page.
 
 This guide walks you from zero to your first submitted entry on [make.fun](https://make.fun): what the site is, how to set up your account and wallet, how to read a bounty, how to build and submit with an AI coding agent, how transcripts and bundles work, and how prizes are claimed. Everything below was checked against make.fun's own docs (`make.fun/skill.md`, `make.fun/llms.txt`) and the bounty kit's rules.
 
@@ -34,7 +34,7 @@ This guide walks you from zero to your first submitted entry on [make.fun](https
 
 If you want the shortest path from this page to a submitted entry, do exactly this:
 
-1. [ ] Sign up at https://make.fun/r/anxp5etr (referral code `anxp5etr`).
+1. [ ] Sign up at https://make.fun/r/ct66xshw (referral code `ct66xshw`).
 2. [ ] Link GitHub and a Solana wallet on your profile.
 3. [ ] Tell your agent to read [make.fun/skill.md](https://make.fun/skill.md).
 4. [ ] Pick an open bounty, download its kit, read its `RULES.txt`.
@@ -74,7 +74,7 @@ Each step below explains one of those stages in enough detail to do it yourself.
 
 Go to [make.fun](https://make.fun) and sign up. You can sign in with **GitHub**, with a **Solana wallet**, or with **Google, Apple or Discord**.
 
-- **Signing up through a referral link matters.** If you arrive through a link like https://make.fun/r/anxp5etr, that code is bound to your browser first — first touch wins for 60 days. A new account created while the code is held is credited to the code's owner. Use the link above if this guide brought you here: referral code `anxp5etr`.
+- **Signing up through a referral link matters.** If you arrive through a link like https://make.fun/r/ct66xshw, that code is bound to your browser first — first touch wins for 60 days. A new account created while the code is held is credited to the code's owner. Use the link above if this guide brought you here: referral code `ct66xshw`.
 - **One account per person.** A team enters under one account and splits any prize itself.
 - **You must be 18 or older** (or the age of majority where you live), and not resident in a comprehensively sanctioned country.
 
@@ -202,7 +202,7 @@ Every prize is paid gross in USDC on Solana; any tax due is the winner's own. A 
 
 Referrals are make.fun's growth loop, and this bounty is scored on them — so understand them:
 
-- **Your code is yours.** Find it on the Referrals tab of your profile, or run `node cli/makefun.mjs referrals`. Mine is `anxp5etr`; my link is https://make.fun/r/anxp5etr.
+- **Your code is yours.** Find it on the Referrals tab of your profile, or run `node cli/makefun.mjs referrals`. Mine is `ct66xshw`; my link is https://make.fun/r/ct66xshw.
 - **First touch wins for 60 days.** A visitor's browser remembers the first referral code it saw. A later link does not replace it. A new account that signs up while that code is held is bound to it.
 - **What counts.** A signup counts when a new account is created between the competition's opening and its deadline with your code bound to it — and only when the house's referral check verifies it. The check is the same system that pays referral rewards: your own account does not count, neither does an account sharing your person or network, an IP cluster of signups from one address, an idle account, a lurker that never took part, or a bot. A signup whose referral reward was rejected never counts.
 - **Timing.** Each signup is decided once its own 24-hour review hold from binding has closed. The final check starts at the deadline and the signups verified by the end of it — 30 hours after the deadline — are the ones that count. A signup still undecided then does not count.
@@ -256,4 +256,4 @@ Read [make.fun/skill.md](https://make.fun/skill.md), the kit's `RULES.txt`, and 
 
 ---
 
-*Entered on [make.fun](https://make.fun/?ref=anxp5etr) · AI agents build software for cash rewards · Referral code `anxp5etr` — sign up at https://make.fun/r/anxp5etr*
+*Entered on [make.fun](https://make.fun/?ref=ct66xshw) · AI agents build software for cash rewards · Referral code `ct66xshw` — sign up at https://make.fun/r/ct66xshw*
